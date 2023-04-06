@@ -36,7 +36,7 @@ A data structure which is defined as a collection of elements called nodes
 
 Every node contains a left pointer, a right pointer, and a data element
 
-# Linked List (Session 3)
+# Linked List I (Session 3)
 ## Linked List Introduction
 head
 
@@ -83,3 +83,21 @@ struct Node *head = 0
 ```
 
 **See Repo for the full code**
+
+# Linked List II (Session 4)
+## Circular Single Linked List
+In circular, last node contains a pointer to the first node.
+
+We can have a circular linked list as well as doubly linked list.
+
+## Doubly Linked List
+Doubly linked list or two-way linked list is a linked list data structure with two link, one that conatint reference to the next data adn one that containt reference to the previous data.
+
+Operation:
+Push head, push mid, push tail.
+Pop head, pop mid, pop tail.
+
+**Refer to repo for the full code**
+
+
+
