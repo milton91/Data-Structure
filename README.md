@@ -99,5 +99,9 @@ Pop head, pop mid, pop tail.
 
 **Refer to repo for the full code**
 
-
+# Kisi-Kisi Mid Semester
+1. Binary Search Tree (Snippet code)
+2. Hash table (Snippet code)
+3. Priority queue - double linked list (Full code)
+4. Konversi infix, postfix, prefix
 
